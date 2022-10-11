@@ -6,7 +6,7 @@
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
   
 #
-<h3>❤️ I love...</h3>
+<h3> 🕹my hobby...</h3>
 <p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
   
 #
