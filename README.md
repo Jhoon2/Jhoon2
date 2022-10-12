@@ -6,7 +6,7 @@
 <br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=9999ff&text_color=fff&title_color=9999ff&count_private=true" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=000099&text_color=fff&title_color=9999ff&count_private=true" width=49.2% />
 </a>
 
 </div>
