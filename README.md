@@ -6,7 +6,7 @@
 <br><br><br>
 
 🧸 Me 🧸
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=E34F26&logoColor=white"/>
 
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&theme=tokyonight&show_icons=true" width="49.2%" />
