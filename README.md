@@ -9,13 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=6666cc&text_color=fff&title_color=9999ff&count_private=true" width=49.2% />
 </a>
  
+ <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+ 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=49.2% />
 </a>
  
- <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
 
 </div>
 
