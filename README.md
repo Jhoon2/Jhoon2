@@ -12,7 +12,7 @@
  
  <h3>🐶 Me 🐶</h3>
  <p><a href="https://wjh2144.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></p>
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a></p>
 
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&theme=tokyonight&show_icons=true" width="49.2%" />
