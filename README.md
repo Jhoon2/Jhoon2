@@ -5,7 +5,7 @@
 
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=4000&pause=5000&color=F6F722&center=true&vCenter=true&lines=%F0%9F%AA%84Tech+Stack%F0%9F%AA%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=2000&pause=6000&color=F6F722&center=true&vCenter=true&lines=%F0%9F%AA%84Tech+Stack%F0%9F%AA%84)](https://git.io/typing-svg)
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
@@ -16,7 +16,7 @@
  
  <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=4000&pause=5000&color=F6F722&center=true&vCenter=true&lines=%F0%9F%8E%A9Cowork+Tools%F0%9F%8E%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=2000&pause=6000&color=F6F722&center=true&vCenter=true&lines=%F0%9F%8E%A9Cowork+Tools%F0%9F%8E%A9)](https://git.io/typing-svg)
  <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
@@ -36,7 +36,7 @@
 
 <br><br>
  
-  <h3>🐶 Me 🐶</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=2000&pause=8000&color=FFFFFF&center=true&vCenter=true&lines=%F0%9F%90%B6+Me+%F0%9F%90%B6)](https://git.io/typing-svg)
  <p>
   <a href="https://wjh2144.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
