@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=48.6% />
 </a>
 
-<br><br><br>
+<br><br>
  
   <h3>🐶 Me 🐶</h3>
  <p>
