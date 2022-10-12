@@ -9,8 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=6666cc&text_color=fff&title_color=9999ff&count_private=true" width=49.2% />
 </a>
  
- <a href="https://github.com/Jhoon2/github-stats">
- <img src="https://raw.githubusercontent.com/Jhoon2/github-stats/output/generated/languages.svg" width=49.2% />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 </div>
