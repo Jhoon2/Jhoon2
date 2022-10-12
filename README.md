@@ -12,9 +12,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=48.7% />
 </a>
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Jhoon2&theme=flat&column=7)](https://github.com/dkssud8150/)
- 
 
 </div>
 
