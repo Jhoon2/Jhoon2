@@ -16,7 +16,7 @@
  
  <br><br><br>
  
- <h3>🗣️ Cowork Tools 🗣️</h3>
+ <h3>🪄 Cowork Tools 🪄</h3>
  <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
