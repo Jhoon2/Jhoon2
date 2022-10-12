@@ -5,7 +5,8 @@
 
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=7000&pause=1000&color=F6F722&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&lines=Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=7000&pause=1000&color=F6F722&center=true&vCenter=true&lines=Tech+Stack)]
+(https://git.io/typing-svg)
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
