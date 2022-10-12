@@ -10,7 +10,7 @@
 </a>
  
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=45.2% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=42.2% />
 </a>
 
 </div>
