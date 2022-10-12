@@ -12,6 +12,7 @@
  
  <h3>🐶 Me 🐶</h3>
  <p><a href="https://wjh2144.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/wjh2144@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
  </p>
 
  <a href="s">
