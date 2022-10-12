@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-<h3>🎩 Tech Stack 🎩</h3>
+<h3>🎩 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=7000&pause=1000&color=F6F722&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&width=435&lines=Tech+Stack)](https://git.io/typing-svg) 🎩</h3>
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
