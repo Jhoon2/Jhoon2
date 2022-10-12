@@ -16,7 +16,7 @@
  
  <br><br><br>
  
- <h3>🪄 Cowork Tools 🪄</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=4000&pause=5000&color=F6F722&center=true&vCenter=true&lines=%F0%9F%8E%A9Cowork+Tools%F0%9F%8E%A9)](https://git.io/typing-svg)
  <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
