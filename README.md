@@ -15,21 +15,13 @@
  </p>
  
  <br><br><br>
+ 
+ <h3>🗣️ Cowork Tools 🗣️</h3>
  <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Zeplin-FFE005?style=for-the-badge&logo=Zeplin&logoColor=white"/>&nbsp;&nbsp;
- </p>
- 
- <br><br><br>
- 
- <h3>🐶 Me 🐶</h3>
- <p>
-  <a href="https://wjh2144.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/wjh2144@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/my gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
  </p>
  
   <br><br><br>
@@ -43,6 +35,14 @@
 </a>
 
 <br><br><br>
+ 
+  <h3>🐶 Me 🐶</h3>
+ <p>
+  <a href="https://wjh2144.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/wjh2144@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/my gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+ </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJhoon2&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
