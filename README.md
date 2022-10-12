@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-<h3>🔎 Tech Stack 🔍</h3>
+<h3>🎩 Tech Stack 🎩</h3>
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
