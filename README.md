@@ -6,7 +6,7 @@
 <br><br><br>
 
 🧸 Me 🧸
-<p><img src="https://img.shields.io/badge/HTML-32c1ed?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-f27290?style=for-the-badge&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/></p>
+<p><img src="https://img.shields.io/badge/HTML-32c1ed?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-f27290?style=for-the-badge&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=61DAFB"/></p>
 
 
  <a href="s">
