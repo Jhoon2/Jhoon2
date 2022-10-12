@@ -35,8 +35,8 @@
 </a>
 
 <br><br>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=2000&pause=8000&color=FFFFFF&center=true&vCenter=true&lines=%F0%9F%90%B6+Me+%F0%9F%90%B6)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=2000&pause=6000&color=FFFFFF&center=true&vCenter=true&lines=%F0%9F%90%B6+Me+%F0%9F%90%B6)](https://git.io/typing-svg)
  <p>
   <a href="https://wjh2144.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
