@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&duration=4000&pause=1000&color=4047C3&center=true&vCenter=true&width=600&lines=Hi+there%F0%9F%91%8B%2C+I'm+Hoon2%F0%9F%90%B6)](https://git.io/typing-svg)
 
 <br><br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=7000&pause=1000&color=F6F722&center=true&vCenter=true&lines=Tech+Stack)]
-(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&duration=7000&pause=1000&color=F6F722&center=true&vCenter=true&lines=Tech+Stack)](https://git.io/typing-svg)
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
