@@ -5,9 +5,7 @@
 
 <br><br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=434d58&title_color=2f80ed&count_private=true" width=49.2% />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&layout=compact&theme=tokyonight width=49.2%)
 
 </div>
 
