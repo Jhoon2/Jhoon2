@@ -6,14 +6,33 @@
 <br><br><br>
 
 <h3>🔎 Tech Stack 🔍</h3>
-<p><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></p>
-
+<p>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+ </p>
+ 
+ <br><br><br>
+ <p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zeplin-FFE005?style=for-the-badge&logo=Zeplin&logoColor=white"/>&nbsp;&nbsp;
+ </p>
+ 
  <br><br><br>
  
  <h3>🐶 Me 🐶</h3>
- <p><a href="https://wjh2144.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/wjh2144@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
+ <p>
+  <a href="https://wjh2144.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/My blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/wjh2144@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/my gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
  </p>
+ 
+  <br><br><br>
 
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhoon2&theme=tokyonight&show_icons=true" width="49.2%" />
