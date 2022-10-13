@@ -31,7 +31,7 @@
 </a>
  
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=48.6% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoon2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=48.5% />
 </a>
 
 <br><br>
